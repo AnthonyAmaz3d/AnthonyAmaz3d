@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Anthony Maia ✌️
 
-![AnthonyAmaz3d GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyAmaz3d&show_icons=true&theme=tokyonight)
+![AnthonyAmaz3d GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyAmaz3d&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso ou estou aprendendo 👇
 
