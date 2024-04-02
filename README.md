@@ -13,7 +13,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por jogos e tecnologias, atualmente estudante de programação na EBAC
+Apaixonado por jogos e tecnologias, atualmente estudante de ADS da PUC-PR e fazendo o curso de FullStack JAVA da EBAC
 
 ## Redes Sociais e meios de comunicação
 
