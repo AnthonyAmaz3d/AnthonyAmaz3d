@@ -1,4 +1,6 @@
-### Olá! Eu sou o Anthony Maia ✌️
+<div>
+  <img src="https://github.com/AnthonyAmaz3d/AnthonyAmaz3d/blob/main/CLICK%20HERE.gif?raw=true">
+</div>
 
 ![AnthonyAmaz3d GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyAmaz3d&show_icons=true&theme=radical)
 
