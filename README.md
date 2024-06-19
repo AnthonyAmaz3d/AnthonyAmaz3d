@@ -5,7 +5,7 @@
 ## GitHub stats :coffee:
 
 ![AnthonyAmaz3d GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyAmaz3d&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAmaz3d&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAmaz3d&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que eu uso ou estou aprendendo 👇
 
