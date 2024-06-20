@@ -24,7 +24,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por jogos e tecnologias, atualmente estudante de ADS da PUC-PR, fazendo o curso de FullStack JAVA da EBAC
+<p align="center" style="color: black; font-family: Arial, sans-serif;">
+  Apaixonado por jogos e tecnologias, atualmente estudante de ADS da PUC-PR, fazendo o curso de FullStack JAVA da EBAC
+</p>
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;"> Redes Sociais e meios de comunicação </h2> 
 
