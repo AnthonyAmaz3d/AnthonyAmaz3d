@@ -8,7 +8,7 @@
 
 <div display= inline-block align="center" width=100%>
   <img src="https://github-readme-stats.vercel.app/api?username=anthonyamaz3d&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonyamaz3d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonyamaz3d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="194" alt="languages graph" />
 </div>
 
 ### 
