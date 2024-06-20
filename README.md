@@ -2,7 +2,7 @@
   <img src="https://github.com/AnthonyAmaz3d/AnthonyAmaz3d/blob/main/header.gif?raw=true">
 </div>
 
-## GitHub stats :coffee:
+<h2 align="center" style="color: black; font-family: Arial, sans-serif;">GitHub stats :coffee:</h2> 
 
 ###
 
@@ -13,7 +13,7 @@
 
 ### 
 
-## Tecnologias que eu uso ou estou aprendendo 👇
+<h2 align="center" style="color: black; font-family: Arial, sans-serif;">Tecnologias que eu uso ou estou aprendendo 📚</h2> 
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@
 
 Apaixonado por jogos e tecnologias, atualmente estudante de ADS da PUC-PR, fazendo o curso de FullStack JAVA da EBAC
 
-## Redes Sociais e meios de comunicação
+<h2 align="center" style="color: black; font-family: Arial, sans-serif;"> Redes Sociais e meios de comunicação </h2> 
 
 <div align="center"> 
   <a href="https://instagram.com/anthony_maiad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
