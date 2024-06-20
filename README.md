@@ -15,7 +15,7 @@
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">Tecnologias que eu uso ou estou aprendendo 📚</h2> 
 
-<div style="display: flex" align="center">
+<div style="display: flex flex-direction: collumn" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
