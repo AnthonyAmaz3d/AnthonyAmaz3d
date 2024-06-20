@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/AnthonyAmaz3d/AnthonyAmaz3d/blob/main/CLICK%20HERE.gif?raw=true">
+  <img src="https://github.com/AnthonyAmaz3d/AnthonyAmaz3d/blob/main/CLICK%20HERE%20(1).gif?raw=true">
 </div>
 
 ## GitHub stats :coffee:
