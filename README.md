@@ -26,7 +26,8 @@
 </div><br/>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
-  Apaixonado por jogos e tecnologias, atualmente estudante de ADS da PUC-PR, fazendo o curso de FullStack JAVA da EBAC
+  <br>
+  Sou apaixonado por jogos e tecnologia, sempre buscando aprender e me aprimorar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC-PR e me aprofundando no curso de FullStack JAVA da EBAC. Com uma forte base em HTML, CSS, JavaScript e Java, adoro criar soluções eficientes e inovadoras. Estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir para projetos impactantes.
 </p>
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;"> Redes Sociais e meios de comunicação </h2> 
