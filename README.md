@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> About me 👨🏽‍💻 </h2>
   <div align="center">
-<img src="https://www.canva.com/design/DAGNNqVlzU4/N0STScIZldvBl711WSiSYg/edit?utm_content=DAGNNqVlzU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="right">
+<img src="https://www.canva.com/design/DAGNNqVlzU4/Sl1pudmWcYeu3PZX9N_ZRQ/view?utm_content=DAGNNqVlzU4&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="right">
   </div>
 <li>
  <b>Name:</b> Anthony Maia Dolberth
