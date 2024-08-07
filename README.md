@@ -13,12 +13,14 @@
 
 ### 
 
-<h2 align="center" style="color: black; font-family: Arial, sans-serif;">Tecnologias que eu uso ou estou aprendendo 📚</h2> 
-<br/>
+<h2 align="center" style="color: black; font-family: Arial, sans-serif;">About me 👨🏽‍💻</h2> 
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
   <br>
-  Sou apaixonado por jogos e tecnologia, sempre buscando aprender e me aprimorar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC-PR e me aprofundando no curso de FullStack JAVA da EBAC. Com uma forte base em HTML, CSS, JavaScript e Java, adoro criar soluções eficientes e inovadoras. Estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir para projetos impactantes.
+  Name: Anthony Maia Dolberth
+  Gender: He/him/Masculine
+  Loves: Java, mangá, astronomy, math, rap and games.
+  
 </p>
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;"> Redes Sociais e meios de comunicação </h2> 
