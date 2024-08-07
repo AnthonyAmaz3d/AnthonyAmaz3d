@@ -16,7 +16,7 @@
 <div align="center">
 <h2 align="center"> About me 👨🏽‍💻 </h2>
 <p>
- Olá, meu nome é Anthony Maia Dolberth, sou estudante da PUC-PR e faço o curso livre da EBAC de desenvolvimento full stack java, gosto de codar em Java, mas tenho uma base sólida em front end com JS, gosto de astronomia/astrofísica, jogos, mangá, matemática e rap.
+ Olá, meu nome é Anthony Maia Dolberth, sou estudante da PUC-PR e faço o curso livre da EBAC de desenvolvimento full stack java, gosto de codar em Java, mas tenho uma base sólida em front end com JS, gosto de astronomia/astrofísica, jogos, mangá, matemática e rap. Algumas das habilidades que possuo são: Git | GitHub | Java | IntelliJ IDEA | JavaScript | HTML | CSS | Python | Estrutura de dados| Algoritmos | React.js | Vue.js | Padrões de projeto de software| Banco de Dados | Comunicação | Inglês – intermediário |  Resolução de problemas. 
 </p>
 <br><br><br>
   </div>
