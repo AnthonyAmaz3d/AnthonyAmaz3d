@@ -13,15 +13,23 @@
 
 ### 
 
-<h2 align="center" style="color: black; font-family: Arial, sans-serif;">About me 👨🏽‍💻</h2> 
-
-<p align="center" style="color: black; font-family: Arial, sans-serif;">
-  <br>
-  Name: Anthony Maia Dolberth
-  Gender: He/him/Masculine
-  Loves: Java, mangá, astronomy, math, rap and games.
-  
-</p>
+<div>
+<h2 align="center"> About me 👨🏽‍💻 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Anthony Maia Dolberth
+</li>
+<li>
+  <b>Loves:</b> Java, mangá, astronomy, math, rap and games.
+</li>
+<li>
+<b>Gender:</b> He/him/Masculine
+</li>
+<br><br><br>
+</div>
+<div>
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;"> Redes Sociais e meios de comunicação </h2> 
 
