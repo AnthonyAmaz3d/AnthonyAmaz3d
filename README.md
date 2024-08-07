@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> About me 👨🏽‍💻 </h2>
   <div align="center">
-<img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" align="right">
+<img src="https://www.canva.com/design/DAGNNqVlzU4/N0STScIZldvBl711WSiSYg/edit?utm_content=DAGNNqVlzU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="right">
   </div>
 <li>
  <b>Name:</b> Anthony Maia Dolberth
