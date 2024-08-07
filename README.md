@@ -13,14 +13,11 @@
 
 ### 
 
-<div>
+<div align="center">
 <h2 align="center"> About me 👨🏽‍💻 </h2>
-  <div align="center">
-<img src="https://github.com/AnthonyAmaz3d/servidor_estatico/blob/main/Design%20sem%20nome.png?raw=true" align="right">
-  </div>
-<li>
+<p>
  Olá, meu nome é Anthony Maia Dolberth, sou estudante da PUC-PR e faço o curso livre da EBAC de desenvolvimento full stack java, gosto de codar em Java, mas tenho uma base sólida em front end com JS, gosto de astronomia/astrofísica, jogos, mangá, matemática e rap.
-</li>
+</p>
 <br><br><br>
   </div>
 <div>
