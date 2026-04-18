@@ -19,7 +19,7 @@
         &nbsp; - <span style="color:#FFC000;">Hobbies:</span> computers, games, music<br>
         &nbsp; - <span style="color:#FFC000;">My Experiences:</span> Git, Github, AzureDevops,<br>
         &nbsp; Java, Python, HTML, CSS, JS, MarkDown, SQL, MySQL,<br>
-        &nbsp; PostGreSQL, PowerBI, Office, Progress,  <br>
+        &nbsp; PostGreSQL, PowerBI, Office, Progress  <br><br>
         &nbsp;  <img src="./assets/Images/Pallete.png" width="35%" style="margin-top: 10px;">
       </samp>
     </p>
